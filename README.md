@@ -23,3 +23,6 @@
 10. `T`
 11. `sort_index()`
 12. `sort_values()`
+
+## 2주차
+pandas는 매우 어렵다..
